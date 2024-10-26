@@ -30,10 +30,10 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-        <img src="https://img.shields.io/badge/AutoCAD=for-the-badge&logo=python&logoColor=white">
-        <img src="https://img.shields.io/badge/CATIA=for-the-badge&logo=openjdk&logoColor=white">
-        <img src="https://img.shields.io/badge/NXUG=for-the-badge&logo=spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma=for-the-badge&logo=mysql&logoColor=white">
+        <img src="https://img.shields.io/badge/AutoCAD-3776AB?style=for-the-badge&logo=AutoCAD&logoColor=white">
+        <img src="https://img.shields.io/badge/CATIA-ED8B00?style=for-the-badge&logo=CATIAk&logoColor=white">
+        <img src="https://img.shields.io/badge/NXUG-6DB33F?style=for-the-badge&logo=NXUG&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-005C84?style=for-the-badge&logo=Figmal&logoColor=white">
     </div>
 </div>
 
