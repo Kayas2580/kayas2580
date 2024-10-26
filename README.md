@@ -49,7 +49,7 @@
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻 Projects </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align="center"> 
-        <a href="https://github.com/nhnacademy-be6-5ritang">
+        <a href="[https://github.com/nhnacademy-be6-5ritang](https://www.sikyeojo.shop/)">
             <img src="https://img.shields.io/badge/시켜줘 Repository-181717?style=for-the-badge&logo=GitHub&logoColor=white">
         </a>
     </div>
