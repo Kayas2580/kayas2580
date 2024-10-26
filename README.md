@@ -17,11 +17,13 @@
 <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💼 Certifications </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
-        <img src="https://img.shields.io/badge/정보보안기사-232F3E?style=for-the-badge">
-        <img src="https://img.shields.io/badge/정보처리기사-232F3E?style=for-the-badge">
-        <img src="https://img.shields.io/badge/네트워크관리사_2급-232F3E?style=for-the-badge">
-        <img src="https://img.shields.io/badge/컴퓨터활용능력_1급-232F3E?style=for-the-badge">
-        <img src="https://img.shields.io/badge/워드프로세서-232F3E?style=for-the-badge">
+        <img src="https://img.shields.io/badge/금형기능사-232F3E?style=for-the-badge">
+        <img src="https://img.shields.io/badge/컴퓨터응용기계제도기능사-232F3E?style=for-the-badge">
+        <img src="https://img.shields.io/badge/컴퓨터응용밀링기능사-232F3E?style=for-the-badge">
+        <img src="https://img.shields.io/badge/컴퓨터응용선반기능사-232F3E?style=for-the-badge">
+        <img src="https://img.shields.io/badge/지게차기능사-232F3E?style=for-the-badge">
+        <img src="https://img.shields.io/badge/컴퓨터활용능력_2급-232F3E?style=for-the-badge">
+        <img src="https://img.shields.io/badge/ATC1급-232F3E?style=for-the-badge">
     </div>
 </div>
 
