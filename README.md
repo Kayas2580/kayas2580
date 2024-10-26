@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Gyung%20Heon's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Woo%20Hyeok's&animation=fadeIn&fontColor=ffffff&fontSize=70" />
 </div>
 
 <div align= "center">
