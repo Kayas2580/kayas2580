@@ -33,7 +33,7 @@
         <img src="https://img.shields.io/badge/AutoCAD-3776AB?style=for-the-badge&logo=AutoCAD&logoColor=white">
         <img src="https://img.shields.io/badge/CATIA-ED8B00?style=for-the-badge&logo=CATIA&logoColor=white">
         <img src="https://img.shields.io/badge/NXUG-6DB33F?style=for-the-badge&logo=NX&logoColor=white">
-        <img src="https://img.shields.io/badge/Figma-005C84?style=for-the-badge&logo=Figmal&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-005C84?style=for-the-badge&logo=Figma&logoColor=white">
     </div>
 </div>
 
